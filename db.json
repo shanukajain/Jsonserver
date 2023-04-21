@@ -20,13 +20,15 @@
   "dogs": [
     {
       "id": 1,
+      "image":"https://images.unsplash.com/photo-1611003228941-98852ba62227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFieSUyMGRvZ3xlbnwwfHwwfHw%3D&w=1000&q=80",
       "name": "Cherry",
       "age": 2,
       "place": "Visakhapatnam",
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 2,
+      "image":"https://images.unsplash.com/photo-1611003228941-98852ba62227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFieSUyMGRvZ3xlbnwwfHwwfHw%3D&w=1000&q=80",
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
